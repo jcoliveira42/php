@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 <?php
 
-echo "Olá Mundo";
+echo "Olá Mundo real";
 
 ?>
+
